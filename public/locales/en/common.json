@@ -1,0 +1,12 @@
+{
+  "hello": "Hello",
+  "greet": "Hello, {{name}}!",
+  "world": "World",
+  "documentation": "Go To Documentation",
+  "language": {
+    "ja": "Japan",
+    "en": "English"
+  },
+  "number": "Number",
+  "button": "Button"
+}

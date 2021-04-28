@@ -1,0 +1,12 @@
+{
+  "hello": "挨拶",
+  "greet": "挨拶, {{name}}!",
+  "world": "世界",
+  "documentation": "ドキュメンテーション",
+  "language": {
+    "ja": "Japan",
+    "en": "English"
+  },
+  "number": "数",
+  "button": "ボタン"
+}
